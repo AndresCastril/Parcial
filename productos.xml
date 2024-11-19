@@ -1,35 +1,91 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Productos>
-            
-    
-    <Producto>
-                        
-        
-        <nombre>12</nombre>
-                        
-        
-        <precio>12</precio>
-                        
-        
-        <categoria>12</categoria>
                     
     
+    
+    
+    <Producto>
+                                                                        
+        
+        
+        
+        
+        
+        
+        
+        <nombre>2</nombre>
+                                                                        
+        
+        
+        
+        
+        
+        
+        
+        <precio>3</precio>
+                                                                        
+        
+        
+        
+        
+        
+        
+        
+        <categoria>2</categoria>
+                                                                    
+    
+    
+    
+    
+    
+    
+    
     </Producto>
+                                
+
+    
+    
+    
+    
+    
+    
+    <Producto>
+                                                        
+        
+        
+        
+        
+        
+        <nombre>xiaomi</nombre>
+                                                        
+        
+        
+        
+        
+        
+        <precio>500k</precio>
+                                                        
+        
+        
+        
+        
+        
+        <categoria>celular</categoria>
+                                                    
+    
+    
+    
+    
+    
+    </Producto>
+                        
+
+    
+    
+    
         
     
-    <Producto>
-                
-        <nombre>1</nombre>
-                
-        <precio>1</precio>
-                
-        <categoria>1</categoria>
-            
-    </Producto>
-    
-    <Producto>
-        <nombre>2</nombre>
-        <precio>2</precio>
-        <categoria>2</categoria>
-    </Producto>
+
+
+
 </Productos>
