@@ -1,0 +1,16 @@
+{
+  "numeroFactura": "1",
+  "nombreCliente": "andres",
+  "identificacion": "10551212",
+  "direccion": "crr19",
+  "productos": [
+    {
+      "codigo": "12345",
+      "nombre": "SAMSUMG",
+      "precio": 1000000.0,
+      "categoria": "celular"
+    }
+  ],
+  "impuesto": 190000.0,
+  "total": 1190000.0
+}

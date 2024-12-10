@@ -1,91 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Productos>
-                    
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Productos>
+                                            
+    
+    
+        
     
     
     
-    <Producto>
-                                                                        
-        
-        
-        
-        
-        
-        
-        
-        <nombre>2</nombre>
-                                                                        
-        
-        
-        
-        
-        
-        
-        
-        <precio>3</precio>
-                                                                        
-        
-        
-        
-        
-        
-        
-        
-        <categoria>2</categoria>
-                                                                    
-    
-    
-    
-    
-    
-    
-    
-    </Producto>
-                                
-
-    
-    
-    
-    
-    
-    
-    <Producto>
-                                                        
-        
-        
-        
-        
-        
-        <nombre>xiaomi</nombre>
-                                                        
-        
-        
-        
-        
-        
-        <precio>500k</precio>
-                                                        
-        
-        
-        
-        
-        
+    <producto>
+        <codigo>12345</codigo>
+        <nombre>SAMSUMG</nombre>
+        <precio>1000000.0</precio>
         <categoria>celular</categoria>
-                                                    
-    
-    
-    
-    
-    
-    </Producto>
-                        
-
-    
-    
-    
-        
-    
-
-
-
+    </producto>
 </Productos>
